@@ -122,3 +122,4 @@ def get_product(barcode):
 if __name__ == "__main__":
     app.run(debug=True)
 
+//finalized the summative lab
